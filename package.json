@@ -1,0 +1,15 @@
+{
+  "name": "random_string_node",
+  "version": "1.0.0",
+  "description": "Returns a random string [0-9, a-z, A-Z]",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "random",
+    "string"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT"
+}
